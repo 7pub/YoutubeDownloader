@@ -1,8 +1,7 @@
 ## Download
 
-- **[Latest release](https://github.com/Tyrrrz/YoutubeDownloader/releases/latest)**
-- [CI build](https://github.com/Tyrrrz/YoutubeDownloader/actions)
-- 
+- **[Neueste Version](https://github.com/Tyrrrz/YoutubeDownloader/releases/latest)**
+
 # YoutubeDownloader
 
 [![Build](https://github.com/Tyrrrz/YoutubeDownloader/workflows/CI/badge.svg?branch=master)](https://github.com/Tyrrrz/YoutubeDownloader/actions)
