@@ -1,3 +1,8 @@
+## Download
+
+- **[Latest release](https://github.com/Tyrrrz/YoutubeDownloader/releases/latest)**
+- [CI build](https://github.com/Tyrrrz/YoutubeDownloader/actions)
+- 
 # YoutubeDownloader
 
 [![Build](https://github.com/Tyrrrz/YoutubeDownloader/workflows/CI/badge.svg?branch=master)](https://github.com/Tyrrrz/YoutubeDownloader/actions)
@@ -5,29 +10,23 @@
 [![Downloads](https://img.shields.io/github/downloads/Tyrrrz/YoutubeDownloader/total.svg)](https://github.com/Tyrrrz/YoutubeDownloader/releases)
 [![Donate](https://img.shields.io/badge/donate-$$$-purple.svg)](https://tyrrrz.me/donate)
 
-⚠️ **Project status: maintenance mode** (bug fixes only).
+YoutubeDownloader ist eine Anwendung, mit der Sie Videos von YouTube herunterladen können. Sie können die URL eines Videos, einer Wiedergabeliste oder eines Kanals kopieren, einfügen und direkt in ein Format Ihrer Wahl herunterladen. Es unterstützt auch die Suche nach Schlüsselwörtern, was hilfreich ist, wenn Sie schnell nach Videos suchen und diese herunterladen möchten.
 
-YoutubeDownloader is an application that lets you download videos from YouTube. You can copy-paste URL of any video, playlist or channel and download it directly to a format of your choice. It also supports searching by keywords, which is helpful if you want to quickly look up and download videos.
-
-This application uses [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) under the hood to interact with YouTube.
-
-## Download
-
-- **[Latest release](https://github.com/Tyrrrz/YoutubeDownloader/releases/latest)**
-- [CI build](https://github.com/Tyrrrz/YoutubeDownloader/actions)
+Diese Anwendung nutzt [YoutubeExplode] (https://github.com/Tyrrrz/YoutubeExplode), um mit YouTube zu interagieren.
 
 **Important**: This application requires **.NET Core v3.1** runtime in order to run. To install the runtime, find the suitable download option below:
+**Wichtig**: Diese Anwendung benötigt zur Ausführung **.NET Core v3.1**. Um die Laufzeit-Umgebung zu installieren, finden Sie unten die geeignete Download-Option:
 
 - [Windows x64](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-3.1.10-windows-x64-installer)
 - [Windows x86](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-3.1.10-windows-x86-installer)
 
-## Features
+## Eigenschaften
 
-- Supports single videos, playlists, channels, and search queries
-- Variety of output formats: mp4, webm, mp3, ogg
-- Selectable video quality
-- Multiple downloads in parallel with progress reporting and cancellation
-- Automatic media tagging for audio downloads
+- Unterstützt einzelne Videos, Wiedergabelisten, Kanäle und Suchanfragen
+- Verschiedene Ausgabeformate: mp4, webm, mp3, ogg
+- Wählbare Videoqualität
+- Mehrere Downloads parallel zur Fortschrittsberichterstattung und -stornierung
+- Automatische Medienkennzeichnung für Audio-Downloads
 
 ## Screenshots
 
